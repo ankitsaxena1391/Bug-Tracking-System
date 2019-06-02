@@ -1,0 +1,3 @@
+To run this application you will need Netbeans Ide , Jdk 1.8 ,GlassFish Server 4.1 .For Database I have use My Sql .Just import the project in Netbeans .In the Source code database file db.sql file is available which you can use for creating the Database Table .It has all the SQL queries which you can execute either in the php admin or in netbeans execute command in the services tab.
+
+Any further improvement in this project will be appreciated .Thanks 
